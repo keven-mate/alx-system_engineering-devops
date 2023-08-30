@@ -1,4 +1,4 @@
-## 0x00-shell_basics
+## 0x00-shell-basics
 
 This directory will store all the files for the *basic* **System Devops** and their explanation.
 
