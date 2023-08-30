@@ -43,6 +43,7 @@ This script will delete the file **betty** from the */tmp/my_first_directory* di
 This script will delete the directory *my_first_directory* from */tmp*.
 
 **10-back**
+
 This script will move the user to the previous directory.
 
 
